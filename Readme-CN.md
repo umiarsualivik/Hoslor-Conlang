@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/img/logo.png" width="100px">
+<img src="./img/logo.png" width="100px">
 </p>
 
 <h3 align="center">Hoslor 赫希鲁尔语</h3>
