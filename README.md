@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/img/logo.png" width="100px">
+<img src="./img/logo.png" width="100px">
 </p>
 
 <h3 align="center">The Hoslor Language</h3>
